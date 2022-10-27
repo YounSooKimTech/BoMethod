@@ -1,0 +1,13 @@
+git init
+
+git remote add origin "url"
+
+git add
+
+git commit -m "comment"
+
+
+git status
+
+git push -u origin main
+
