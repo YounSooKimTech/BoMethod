@@ -1,0 +1,20 @@
+	(1)
+VARIABLES	calledback
+	
+recruiteriswhite	0.0352
+	(0.0327)
+recruiterismale	0.0706
+	(0.0434)
+malecandidate	-0.0440
+	(0.0318)
+eliteschoolcandidate	0.137***
+	(0.0318)
+bigcompanycandidate	0.0903***
+	(0.0318)
+Constant	0.533***
+	(0.0370)
+	
+Observations	864
+R-squared	0.037
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
